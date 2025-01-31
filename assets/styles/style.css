@@ -1,0 +1,24 @@
+body {
+  margin-left: 50px;
+}
+.done {
+  text-decoration: line-through;
+  color: darkgrey;
+}
+ul {
+  list-style-type: "✔️";
+  cursor: pointer;
+}
+input,
+button,
+ul {
+  font-size: 20px;
+}
+h1 {
+  font-size: 40px;
+}
+button {
+  background-color: #16c60c;
+  color: white;
+  width: 130px;
+}
